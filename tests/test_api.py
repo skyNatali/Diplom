@@ -12,7 +12,7 @@ import pytest
 import allure
 import requests
 import json
-from test_data import TestData
+from tests.test_data import TestData
 from api_client import KinopoiskAPIClient
 
 

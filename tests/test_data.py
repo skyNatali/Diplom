@@ -51,7 +51,7 @@ class TestData:
             "min_results": 1  # Ожидаем хотя бы 1 результат
         },
         {
-            "query": "Novocaine",
+            "query": "Prostokvashino",
             "description": "Название на английском",
             "min_results": 1
         },
