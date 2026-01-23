@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     """
 
     API_URL: str = "https://api.kinopoisk.dev/v1.4/movie"
-    API_KEY: str = "Вставить действующий ключ"
+    API_KEY: str = "Ваш токен"
 
 
 # Экземпляр настроек для использования в других модулях
